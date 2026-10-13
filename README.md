@@ -5,7 +5,7 @@ An LCD screen made with the Arduino.
 
 ## How to Use
 
-First, download the Arduino IDE if you don't have it. Then, go to the file called "TEMPURATURE_AND_HUMIDITY.ino" and copy and paste that into the Arduino IDE. Finally, upload a temperature and humidity or DTH library. The wiring is listed below with a diagram.
+First, download the Arduino IDE if you don't have it. Then, go to the file called "LCD.ino" and copy and paste that into the Arduino IDE. Finally, upload a "Liquid Crystal" library. The wiring is listed below with a diagram.
 
 ## Building
 
